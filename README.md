@@ -30,6 +30,10 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 - ⚡ Fun fact **I have methodical approach to learning and problem solving**
 <br>
+<p align="right">
+  <img width="300" src="https://storybookblog.ghost.io/content/images/2022/11/storybook-for-full-stack.gif">
+</p>
+
 <h3 align="left">Look at my learning progress:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/scurry_glue_74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/scurry_glue_74" height="30" width="40" /></a>
